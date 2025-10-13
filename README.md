@@ -9,7 +9,7 @@ Toronto, Canada 🍁 • Open to internships and full-time roles
 
 ## About
 
-I’m a Data Science student and Google Certified Data Analyst focused on applying ML
+I’m a Data Science student and Google Certified Data Analyst focused on applying Data analysis and ML
 to real-world problems—especially in healthcare. I combine hands-on ML engineering
 with analytics rigor (SQL, experimentation, visualization) and have shipped end-to-end
 projects from data prep to deployment (MLOps).
