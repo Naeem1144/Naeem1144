@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" height="28" alt="wave"> Hi, I'm Naeem Nagori
 
-Google-certified Data Analyst • ML Engineer (CV/NLP) • Building real-world AI solutions  
+Google-certified Data Analyst • ML Engineer • Building real-world AI solutions  
 Toronto, Canada 🍁 • Open to internships and full-time roles
 
 [Portfolio](https://portfolio-site-naeem.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/naeemnagori/) • [GitHub](https://github.com/Naeem1144)
